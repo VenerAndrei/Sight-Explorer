@@ -126,8 +126,6 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
             pygame.display.flip()
 
-
-
             conn.sendall(data.encode())
             clock.tick(40)
 
