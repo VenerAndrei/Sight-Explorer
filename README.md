@@ -16,7 +16,7 @@ Each folder is a stage of the development of the Sight-Explorer robot. Just jump
 * [PyGame](https://www.pygame.org/wiki/GettingStarted) - Used to read the joystick input.
 * [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - OS on the Raspberry Pi 3
 * [Putty](https://www.putty.org/) - SSH Client
-* [FileZilla](https://filezilla-project.org/) - SSH Client
+* [FileZilla](https://filezilla-project.org/) - FTP Client
 
 
 ## Authors
