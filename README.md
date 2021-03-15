@@ -1,6 +1,6 @@
 # Sight-Explorer
 
-Sight-Explorer is one of my personal projects in order to learn the ropes in how to make a small working robot. In this repository I'am going to upload all the futures I add to the robot and also some small tutorials in which I'll explain how to get the project up and runnig on your own robot or machine. Have fun!
+Sight-Explorer is one of my personal projects in order to learn the ropes in how to make a small working robot. In this repository I am going to upload all the features I add to the robot and also some small tutorials in which I'll explain how to get the project up and runnig on your own robot or machine. Have fun!
 <p align="center">
  <img src="imgs/joystick_demo.gif">
 </p>
